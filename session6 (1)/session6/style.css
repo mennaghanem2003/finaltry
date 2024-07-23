@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+    color:beige;
+}
+h2,h3{
+    text-align: center;
+}
+img{
+    margin-left: 600px;
+}
+section{
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+}
+p{
+    padding: 15PX;
+    font-family: 'Times New Roman', Times, serif;
+}
+#ischool{
+    text-align: center;
+}
